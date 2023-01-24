@@ -8,11 +8,10 @@ As soon as the user runs the code, a window pops out displaying the board of the
 
 
 ## Demo
+Here is a demo to the interface:
 
 <p align="center"><img src="animation.gif"></p>
 
-
-Here is a demo to the interface of this game: 
 
 ## Authors
 
